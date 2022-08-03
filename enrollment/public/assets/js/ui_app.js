@@ -1,3 +1,4 @@
+//KumaTech Developers - Lance Kenji Parce
 var app = angular.module("app",[]);
 
 app.controller("regController", function($scope, $http){
